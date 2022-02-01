@@ -1,2 +1,2 @@
-# PRO-C70-PROJECT
-Project Solution Code
+# PRO-C70-PROYECTO
+Solución al código del proyecto
